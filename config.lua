@@ -40,6 +40,7 @@ radioConfig = {
     Frequency = {
         Private = { -- List of private frequencies
             [1] = true, -- Make 1 a private frequency
+            [2] = true -- Make 2 a private frequency
         }, -- List of private frequencies
         Current = 1, -- Don't touch
         CurrentIndex = 1, -- Don't touch
